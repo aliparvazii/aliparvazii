@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <a href="https://github.com/aliparvazii">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00F7FF&height=170&section=header&text=AUTOMATING%20THE%20PREDICTABLE&fontSize=28&fontColor=00F7FF&fontAlignY=38&desc=ENGINEERING%20THE%20IMPOSSIBLE&descSize=22&descColor=FFFFFF&descAlignY=65&animation=twinkling" width="100%" alt="Header Banner" />
@@ -13,12 +13,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-<h3>⚡ Executive Summary</h3>
+<h3>PROFESSIONAL PROFILE</h3>
 
 <p>I design and engineer software systems that connect applications, data, artificial intelligence, and real-world operations. My work spans software architecture, full-stack development, AI-driven applications, data systems, and industrial automation — with a focus on transforming complex technical requirements into reliable, scalable solutions.</p>
 
+<p><i>I am particularly interested in complex engineering challenges involving software platforms, AI-powered systems, data-driven applications, intelligent automation, and industrial digital transformation.</i></p>
+
 <pre>
-# SYSTEM ARCHITECTURE & ENGINEERING METHODOLOGY
+# ENGINEERING APPROACH
 engineer: "Ali Parvazi (Fly)"
 approach:
   - Understand the core problem, operational bottlenecks & physical/digital constraints
@@ -33,12 +35,12 @@ core_focus:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h3>🏛️ Engineering Domains & Capabilities</h3>
+<h3>CORE ENGINEERING DOMAINS</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 SOFTWARE ENGINEERING & ARCHITECTURE</h4>
+      <h4>SOFTWARE ENGINEERING & ARCHITECTURE</h4>
       <ul>
         <li>Software architecture, system design, and full-stack engineering</li>
         <li>Frontend and backend application development</li>
@@ -51,7 +53,7 @@ core_focus:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 ARTIFICIAL INTELLIGENCE & DATA SCIENCE</h4>
+      <h4>ARTIFICIAL INTELLIGENCE & DATA SCIENCE</h4>
       <ul>
         <li>Artificial intelligence, machine learning, and deep learning</li>
         <li>Large language models (LLMs) and generative AI</li>
@@ -67,7 +69,7 @@ core_focus:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ AUTOMATION & INDUSTRIAL SYSTEMS</h4>
+      <h4>AUTOMATION & INDUSTRIAL SYSTEMS</h4>
       <ul>
         <li>Industrial automation and intelligent workflow engineering</li>
         <li>Business process automation and Python-based solutions</li>
@@ -79,7 +81,7 @@ core_focus:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ INFRASTRUCTURE & ENGINEERING OPERATIONS</h4>
+      <h4>INFRASTRUCTURE & ENGINEERING OPERATIONS</h4>
       <ul>
         <li>Linux-based environments and server administration</li>
         <li>Docker and containerized applications</li>
@@ -94,13 +96,13 @@ core_focus:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h3>🧰 Technical Competencies & Architecture Matrix</h3>
+<h3>TECHNOLOGY STACK & TECHNICAL COMPETENCIES</h3>
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,nextjs,nodejs,fastapi,django,flask,threejs,wordpress&perline=14" alt="Core Stack" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css,react,nextjs,nodejs,fastapi,django,flask,threejs,wordpress&perline=14" alt="Core Stack" />
     <br>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,mongodb,redis,docker,linux,nginx,git,github&perline=11" alt="Infra & AI Stack" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,mongodb,redis,docker,linux,nginx,git,github&perline=11" alt="Infrastructure and AI Stack" />
   </p>
 </div>
 
@@ -153,11 +155,9 @@ core_focus:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h3>🌐 Direct Communication Channels</h3>
+<h3>CONNECT</h3>
 
 <div align="center">
-  <p><i>Interested in complex engineering challenges involving software platforms, AI-powered systems, data-driven applications, intelligent automation, and industrial digital transformation.</i></p>
-
   <table>
     <tr>
       <td align="center" width="140">
