@@ -1,96 +1,186 @@
+<!-- ========================================================= -->
+<!-- ALI PARVAZI | FULL-SPECTRUM SYSTEMS ARCHITECT -->
+<!-- ========================================================= -->
+
 <div align="center">
-  <h1>🚀 Hi there, I'm Ali Parvazi</h1>
-  <h3>Architecting Intelligence. Building Real-World Systems.</h3>
-  <p><i>Building systems. Solving problems. Connecting software with the real world.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2D,50:102B46,100:071A2D&height=190&section=header&text=ALI%20PARVAZI&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=FULL-SPECTRUM%20SYSTEMS%20ARCHITECT&descSize=17&descAlignY=65&animation=fadeIn" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aliparvazi">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/aliparvazii">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://t.me/aliparvazii">
+<img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### AUTOMATING THE PREDICTABLE
+### ENGINEERING THE IMPOSSIBLE
+
+<br/>
+
+<sub>SOFTWARE ENGINEERING &nbsp;·&nbsp; ARTIFICIAL INTELLIGENCE &nbsp;·&nbsp; SYSTEMS ARCHITECTURE &nbsp;·&nbsp; INDUSTRIAL AUTOMATION</sub>
+
 </div>
 
-<br>
+<br/>
 
-I design and engineer robust software systems that seamlessly integrate applications, data, artificial intelligence, and physical industrial systems. My engineering approach starts with understanding the problem, defining the architecture, and selecting the right technologies to build secure, scalable, and maintainable solutions.
+---
 
-<br>
+## ABOUT
 
-### 🛠️ Core Competencies & Arsenal
+I engineer software platforms and intelligent systems that bridge applications, data, artificial intelligence, and physical infrastructure.
+
+My work spans software architecture, full-stack engineering, AI-driven applications, data systems, interactive 3D technologies, and industrial automation.
+
+I approach engineering from the system level: understanding complex requirements, designing robust architectures, integrating technologies, and developing solutions that are secure, maintainable, and built to scale.
+
+I focus on engineering outcomes rather than technology for its own sake.
+
+---
+
+## ENGINEERING DOMAINS
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>Software Engineering & Architecture</b><br>
-      • Full-stack engineering & system design<br>
-      • Frontend & backend application development<br>
-      • RESTful APIs, database architecture & integration<br>
-      • Web performance, technical SEO & 3D (Three.js/WebGL)<br>
-      • Custom WordPress & WooCommerce development
-    </td>
-    <td valign="top" width="50%">
-      <b>Artificial Intelligence & Data Science</b><br>
-      • Large Language Models (LLMs) & Generative AI<br>
-      • RAG, Semantic Search & Neural Networks<br>
-      • AI agents & multi-agent systems<br>
-      • Data engineering, visualization & pipelines<br>
-      • Statistical analysis & model optimization
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <b>Automation & Industrial Systems</b><br>
-      • Industrial IoT (IIoT) & data acquisition<br>
-      • PLC communication, SCADA, Modbus & MQTT<br>
-      • Business process automation (Python, n8n)<br>
-      • Event-driven architectures & webhooks
-    </td>
-    <td valign="top" width="50%">
-      <b>Infrastructure & Operations</b><br>
-      • Linux server administration & deployment<br>
-      • Docker & containerized applications<br>
-      • Database administration (SQL/NoSQL)<br>
-      • Nginx, system reliability & Git workflows
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / SOFTWARE ENGINEERING
+
+System architecture, full-stack development, backend engineering, frontend applications, API design, database architecture, distributed systems, and high-performance web applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / ARTIFICIAL INTELLIGENCE
+
+LLMs, generative AI, autonomous agents, multi-agent architectures, RAG pipelines, machine learning, deep learning, NLP, and intelligent applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / DATA ENGINEERING
+
+Data science, statistical analysis, data processing, analytical pipelines, data visualization, predictive modeling, and database systems.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / INDUSTRIAL SYSTEMS
+
+Industrial automation, IIoT, PLC communication, SCADA, industrial protocols, real-time monitoring, control systems, and industrial digitalization.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 / 3D & COMPUTER GRAPHICS
+
+Three.js, WebGL, GLSL, React Three Fiber, interactive 3D applications, shader programming, and real-time rendering.
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / INFRASTRUCTURE & OPERATIONS
+
+Linux, Docker, server environments, application deployment, database management, Git workflows, and infrastructure engineering.
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-### 💻 Technologies & Tools
+## TECHNOLOGY STACK
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
+<div align="center">
 
-<br>
+### LANGUAGES
 
-### 🌍 Let's Connect
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css,sql&theme=dark" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aliparvazi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/aliparvazii">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://wa.me/989386117755">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/aliparvazii">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+### FRONTEND & BACKEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,flask&theme=dark" />
+
+### AI, MACHINE LEARNING & DATA
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" />
+
+### 3D, GRAPHICS & INTERACTIVE WEB
+
+<img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" />
+
+### DATABASES & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,nginx&theme=dark" />
+
+### DEVELOPMENT & VERSION CONTROL
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress&theme=dark" />
+
+</div>
+
+### INDUSTRIAL TECHNOLOGIES & AUTOMATION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Industrial%20IoT-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/PLC%20Communication-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/SCADA-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Modbus-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/MQTT-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/OPC%20UA-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-071A2D?style=flat-square" />
+<img src="https://img.shields.io/badge/Webhooks-071A2D?style=flat-square" />
+
+</div>
+
+---
+
+## ENGINEERING PRINCIPLES
+
+| Principle | Engineering Focus |
+|:--|:--|
+| Architecture First | Design before implementation |
+| Systems Thinking | Understand dependencies and interactions |
+| Engineering Quality | Maintainability, reliability, and security |
+| Intelligent Automation | Eliminate repetitive work through engineering |
+| Performance | Efficiency across software and infrastructure |
+| Scalability | Build for evolving requirements |
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aliparvazi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://t.me/aliparvazii">
+<img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://wa.me/989386117755">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Building systems. Solving problems. Connecting software with the real world.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2D,100:102B46&height=65&section=footer" />
+
+</div>
