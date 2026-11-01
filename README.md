@@ -18,18 +18,17 @@
 <p>I design and engineer software systems that connect applications, data, artificial intelligence, and real-world operations. My work spans software architecture, full-stack development, AI-driven applications, data systems, and industrial automation — with a focus on transforming complex technical requirements into reliable, scalable solutions.</p>
 
 <pre>
-# SYSTEM ARCHITECTURE & ENGINEERING PROFILE
+# SYSTEM ARCHITECTURE & ENGINEERING METHODOLOGY
 engineer: "Ali Parvazi (Fly)"
-methodology:
-  - Understand the core problem & physical/digital constraints
-  - Define scalable, event-driven system architecture
-  - Select optimal tech stack for security, efficiency & evolution
-focus_areas:
-  - Software Platforms & Full-Stack Ecosystems
-  - AI-Powered Systems, LLMs, RAG & Multi-Agent Workflows
-  - Data-Driven Applications & Analytical Pipelines
+approach:
+  - Understand the core problem, operational bottlenecks & physical/digital constraints
+  - Define scalable, secure, and event-driven system architectures
+  - Select the optimal technology stack built to evolve as requirements grow
+core_focus:
+  - Enterprise Software Platforms & Full-Stack Ecosystems
+  - AI-Powered Systems, LLMs, RAG & Autonomous Multi-Agent Workflows
+  - Data-Driven Applications & High-Throughput Analytical Pipelines
   - Intelligent Automation & Industrial Digital Transformation (IIoT)
-status: "Engineering the Impossible 🚀"
 </pre>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
@@ -95,55 +94,100 @@ status: "Engineering the Impossible 🚀"
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<h3>🧰 Complete Technical Arsenal</h3>
+<h3>🧰 Technical Competencies & Architecture Matrix</h3>
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,nextjs,nodejs,fastapi,django,flask,threejs,wordpress&perline=7" alt="Stack 1" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,mongodb,redis,docker,linux,nginx,git,github&perline=7" alt="Stack 2" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,nextjs,nodejs,fastapi,django,flask,threejs,wordpress&perline=14" alt="Core Stack" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,mongodb,redis,docker,linux,nginx,git,github&perline=11" alt="Infra & AI Stack" />
   </p>
 </div>
 
-<details>
-  <summary><b>🔍 Click to Expand Full LinkedIn Skills Matrix (90+ Verified Competencies)</b></summary>
-  <br>
-  <p align="center">
-    <b>Architecture & Core Engineering:</b><br>
-    <code>Software Architecture</code> <code>System Design</code> <code>Full-Stack Development</code> <code>Software Engineering</code> <code>Object-Oriented Programming</code> <code>Data Structures & Algorithms</code> <code>API Development</code> <code>REST APIs</code> <code>Backend Development</code> <code>Frontend Development</code> <code>Web Application Development</code>
-    <br><br>
-    <b>AI, Machine Learning & Data Science:</b><br>
-    <code>Artificial Intelligence (AI)</code> <code>Machine Learning</code> <code>Deep Learning</code> <code>Large Language Models (LLM)</code> <code>Generative AI</code> <code>Multi-Agent Systems</code> <code>Natural Language Processing (NLP)</code> <code>AI Integration</code> <code>Model Deployment</code> <code>Model Optimization</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Hugging Face</code> <code>Data Science</code> <code>Data Engineering</code> <code>Data Analysis</code> <code>Data Processing</code> <code>Data Visualization</code> <code>Statistical Analysis</code> <code>Exploratory Data Analysis (EDA)</code> <code>NumPy</code> <code>Pandas</code> <code>SciPy</code> <code>Jupyter</code>
-    <br><br>
-    <b>Industrial IoT & Intelligent Automation:</b><br>
-    <code>Industrial Automation</code> <code>Industrial Internet of Things (IIoT)</code> <code>Control Systems Engineering</code> <code>PLC Programming</code> <code>SCADA</code> <code>Modbus</code> <code>MQTT</code> <code>Industrial Monitoring</code> <code>Workflow Automation</code> <code>Business Process Automation</code> <code>n8n</code> <code>Python Automation</code> <code>API Integration</code> <code>Webhooks</code>
-    <br><br>
-    <b>3D Web, CMS & Performance Engineering:</b><br>
-    <code>Three.js</code> <code>WebGL</code> <code>React Three Fiber</code> <code>3D Web Development</code> <code>Real-Time Rendering</code> <code>Shader Programming</code> <code>Interactive 3D</code> <code>Web Animation</code> <code>WordPress</code> <code>WooCommerce</code> <code>WordPress Plugin Development</code> <code>Technical SEO</code> <code>SEO Auditing</code> <code>Search Engine Optimization</code> <code>Web Performance Optimization</code> <code>Core Web Vitals</code> <code>Schema.org</code> <code>Website Architecture</code> <code>JavaScript Optimization</code>
-    <br><br>
-    <b>Databases, DevOps & Infrastructure:</b><br>
-    <code>Linux</code> <code>Docker</code> <code>DevOps</code> <code>Nginx</code> <code>Database Management</code> <code>SQL</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Redis</code> <code>MongoDB</code> <code>Git</code> <code>GitHub</code>
-  </p>
-</details>
+<table>
+  <thead>
+    <tr>
+      <th width="28%" align="left">Engineering Domain</th>
+      <th width="72%" align="left">Technologies, Protocols & Methodologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Architecture & Core Engineering</b></td>
+      <td><code>Software Architecture</code> <code>System Design</code> <code>Full-Stack Development</code> <code>Software Engineering</code> <code>Object-Oriented Programming</code> <code>Data Structures & Algorithms</code> <code>API Development</code> <code>REST APIs</code> <code>Backend Development</code> <code>Frontend Development</code> <code>Web Application Development</code></td>
+    </tr>
+    <tr>
+      <td><b>Full-Stack Languages & Frameworks</b></td>
+      <td><code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>PHP</code> <code>SQL</code> <code>HTML5</code> <code>CSS3</code> <code>React.js</code> <code>Next.js</code> <code>Node.js</code> <code>FastAPI</code> <code>Django</code> <code>Flask</code></td>
+    </tr>
+    <tr>
+      <td><b>AI, Deep Learning & Agentic Systems</b></td>
+      <td><code>Artificial Intelligence (AI)</code> <code>Machine Learning</code> <code>Deep Learning</code> <code>Large Language Models (LLM)</code> <code>Generative AI</code> <code>Multi-Agent Systems</code> <code>Natural Language Processing (NLP)</code> <code>AI Integration</code> <code>Model Deployment</code> <code>Model Optimization</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Hugging Face</code></td>
+    </tr>
+    <tr>
+      <td><b>Data Science & Analytical Pipelines</b></td>
+      <td><code>Data Science</code> <code>Data Engineering</code> <code>Data Analysis</code> <code>Data Processing</code> <code>Data Visualization</code> <code>Statistical Analysis</code> <code>Exploratory Data Analysis (EDA)</code> <code>NumPy</code> <code>Pandas</code> <code>SciPy</code> <code>Jupyter</code></td>
+    </tr>
+    <tr>
+      <td><b>Industrial IoT (IIoT) & Control Systems</b></td>
+      <td><code>Industrial Automation</code> <code>Industrial Internet of Things (IIoT)</code> <code>Control Systems Engineering</code> <code>PLC Programming</code> <code>SCADA</code> <code>Modbus</code> <code>MQTT</code> <code>Industrial Monitoring</code></td>
+    </tr>
+    <tr>
+      <td><b>Workflow & Process Automation</b></td>
+      <td><code>Workflow Automation</code> <code>Business Process Automation</code> <code>n8n</code> <code>Python Automation</code> <code>API Integration</code> <code>Webhooks</code></td>
+    </tr>
+    <tr>
+      <td><b>3D Graphics & Interactive Web</b></td>
+      <td><code>Three.js</code> <code>WebGL</code> <code>React Three Fiber</code> <code>3D Web Development</code> <code>Real-Time Rendering</code> <code>Shader Programming</code> <code>Interactive 3D</code> <code>Web Animation</code></td>
+    </tr>
+    <tr>
+      <td><b>CMS, Performance & Technical SEO</b></td>
+      <td><code>WordPress</code> <code>WooCommerce</code> <code>WordPress Plugin Development</code> <code>PHP Development</code> <code>Technical SEO</code> <code>SEO Auditing</code> <code>Search Engine Optimization</code> <code>Web Performance Optimization</code> <code>Core Web Vitals</code> <code>Schema.org</code> <code>Website Architecture</code> <code>JavaScript Optimization</code></td>
+    </tr>
+    <tr>
+      <td><b>Databases, DevOps & Infrastructure</b></td>
+      <td><code>Linux</code> <code>Docker</code> <code>DevOps</code> <code>Nginx</code> <code>Database Management</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Redis</code> <code>MongoDB</code> <code>Git</code> <code>GitHub</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <h3>🌐 Direct Communication Channels</h3>
 
 <div align="center">
-  <p><i>Available for complex engineering challenges, architectural consulting, and industrial digital transformation.</i></p>
+  <p><i>Interested in complex engineering challenges involving software platforms, AI-powered systems, data-driven applications, intelligent automation, and industrial digital transformation.</i></p>
 
-  <a href="https://www.linkedin.com/in/aliparvazi">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10141A" height="42" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/aliparvazii">
-    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=10141A" height="42" alt="Telegram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/989386117755">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=10141A" height="42" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aliparvazii">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=10141A" height="42" alt="Instagram" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <a href="https://www.linkedin.com/in/aliparvazi">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" /><br>
+          <b>LinkedIn</b>
+        </a><br>
+        <sub><code>in/aliparvazi</code></sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://t.me/aliparvazii">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="38" height="38" alt="Telegram" /><br>
+          <b>Telegram</b>
+        </a><br>
+        <sub><code>@aliparvazii</code></sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://wa.me/989386117755">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="38" height="38" alt="WhatsApp" /><br>
+          <b>WhatsApp</b>
+        </a><br>
+        <sub><code>+98 938 611 7755</code></sub>
+      </td>
+      <td align="center" width="180">
+        <a href="https://www.instagram.com/aliparvazii">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="38" height="38" alt="Instagram" /><br>
+          <b>Instagram</b>
+        </a><br>
+        <sub><code>@aliparvazii</code></sub>
+      </td>
+    </tr>
+  </table>
 </div>
