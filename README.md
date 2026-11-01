@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/aliparvazii">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=70&lines=AUTOMATING+THE+PREDICTABLE;ENGINEERING+THE+IMPOSSIBLE;ALI+PARVAZI+%7C+SYSTEMS+ARCHITECT" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00F7FF&height=170&section=header&text=AUTOMATING%20THE%20PREDICTABLE&fontSize=28&fontColor=00F7FF&fontAlignY=38&desc=ENGINEERING%20THE%20IMPOSSIBLE&descSize=22&descColor=FFFFFF&descAlignY=65&animation=twinkling" width="100%" alt="Header Banner" />
   </a>
 
   <h3><b>Software & AI Systems Engineer | Full-Stack Engineering | AI, LLMs & Automation | Industrial IoT | Systems Architecture</b></h3>
@@ -160,33 +160,29 @@ core_focus:
 
   <table>
     <tr>
-      <td align="center" width="180">
+      <td align="center" width="140">
         <a href="https://www.linkedin.com/in/aliparvazi">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" /><br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /><br>
           <b>LinkedIn</b>
-        </a><br>
-        <sub><code>in/aliparvazi</code></sub>
+        </a>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="140">
         <a href="https://t.me/aliparvazii">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="38" height="38" alt="Telegram" /><br>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram" /><br>
           <b>Telegram</b>
-        </a><br>
-        <sub><code>@aliparvazii</code></sub>
+        </a>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="140">
         <a href="https://wa.me/989386117755">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="38" height="38" alt="WhatsApp" /><br>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" alt="WhatsApp" /><br>
           <b>WhatsApp</b>
-        </a><br>
-        <sub><code>+98 938 611 7755</code></sub>
+        </a>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="140">
         <a href="https://www.instagram.com/aliparvazii">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="38" height="38" alt="Instagram" /><br>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram" /><br>
           <b>Instagram</b>
-        </a><br>
-        <sub><code>@aliparvazii</code></sub>
+        </a>
       </td>
     </tr>
   </table>
