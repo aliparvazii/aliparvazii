@@ -1,277 +1,149 @@
- <div align="center">
+<div align="center">
 
-<a href="https://github.com/aliparvazii">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2D,45:102B46,100:071A2D&height=230&section=header&text=ALI%20PARVAZI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20SYSTEMS%20ENGINEERING&descSize=16&descAlignY=59&animation=fadeIn" width="100%" alt="Ali Parvazi — Software, AI and Systems Engineering" />
-</a>
+  <a href="https://github.com/aliparvazii">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=70&lines=AUTOMATING+THE+PREDICTABLE;ENGINEERING+THE+IMPOSSIBLE;ALI+PARVAZI+%7C+SYSTEMS+ARCHITECT" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <h3><b>Software & AI Systems Engineer | Full-Stack Engineering | AI, LLMs & Automation | Industrial IoT | Systems Architecture</b></h3>
 
-# AUTOMATING THE PREDICTABLE
-# ENGINEERING THE IMPOSSIBLE
+  <p align="center">
+    <i>"Building systems. Solving problems. Connecting software with the real world."</i>
+  </p>
 
-<br/>
-
-**Software & AI Systems Engineer**  
-Full-Stack Engineering · Artificial Intelligence · Industrial Automation · Systems Architecture
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aliparvazi">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/aliparvazii">
-  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://t.me/aliparvazii">
-  <img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
----
+<h3>⚡ Executive Summary</h3>
 
-## ENGINEERING PROFILE
+<p>I design and engineer software systems that connect applications, data, artificial intelligence, and real-world operations. My work spans software architecture, full-stack development, AI-driven applications, data systems, and industrial automation — with a focus on transforming complex technical requirements into reliable, scalable solutions.</p>
 
-I design and engineer software systems that connect applications, data, artificial intelligence, and real-world operations.
+<pre>
+# SYSTEM ARCHITECTURE & ENGINEERING PROFILE
+engineer: "Ali Parvazi (Fly)"
+methodology:
+  - Understand the core problem & physical/digital constraints
+  - Define scalable, event-driven system architecture
+  - Select optimal tech stack for security, efficiency & evolution
+focus_areas:
+  - Software Platforms & Full-Stack Ecosystems
+  - AI-Powered Systems, LLMs, RAG & Multi-Agent Workflows
+  - Data-Driven Applications & Analytical Pipelines
+  - Intelligent Automation & Industrial Digital Transformation (IIoT)
+status: "Engineering the Impossible 🚀"
+</pre>
 
-My work spans software architecture, full-stack development, AI-driven applications, data engineering, and industrial automation. I focus on translating complex technical requirements into reliable, maintainable, and scalable systems.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-I approach engineering as a connected discipline: understanding the problem, designing the architecture, selecting the right technologies, and building solutions that can evolve with real-world demands.
-
----
-
-## ENGINEERING DOMAINS
+<h3>🏛️ Engineering Domains & Capabilities</h3>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / SOFTWARE ENGINEERING
-
-- Software architecture & system design
-- Full-stack application development
-- Frontend & backend engineering
-- API design and system integration
-- Database architecture
-- Web application performance
-- Interactive 3D web experiences
-- Technical SEO & web infrastructure
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / ARTIFICIAL INTELLIGENCE
-
-- Artificial intelligence & machine learning
-- Large language models (LLMs)
-- Generative AI applications
-- AI agents & multi-agent systems
-- Retrieval-augmented generation (RAG)
-- Natural language processing
-- Model optimization & deployment
-- Intelligent application integration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / AUTOMATION & INDUSTRIAL SYSTEMS
-
-- Industrial automation
-- Business process automation
-- Industrial Internet of Things (IIoT)
-- PLC communication & integration
-- SCADA and industrial monitoring
-- Modbus & MQTT
-- Workflow orchestration
-- Event-driven system integration
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / DATA & INFRASTRUCTURE
-
-- Data science & statistical analysis
-- Data engineering & processing
-- Analytical pipelines & visualization
-- Linux & server administration
-- Containerized applications
-- Database management
-- Deployment & infrastructure operations
-- System reliability & performance
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 SOFTWARE ENGINEERING & ARCHITECTURE</h4>
+      <ul>
+        <li>Software architecture, system design, and full-stack engineering</li>
+        <li>Frontend and backend application development</li>
+        <li>Python, JavaScript, TypeScript, PHP, and SQL</li>
+        <li>React, Next.js, Node.js, FastAPI, Django, and Flask</li>
+        <li>RESTful APIs, system integration, and database architecture</li>
+        <li>WordPress, WooCommerce, and custom plugin development</li>
+        <li>Three.js, WebGL, GLSL, and interactive 3D applications</li>
+        <li>Web performance engineering, technical SEO, and structured data</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 ARTIFICIAL INTELLIGENCE & DATA SCIENCE</h4>
+      <ul>
+        <li>Artificial intelligence, machine learning, and deep learning</li>
+        <li>Large language models (LLMs) and generative AI</li>
+        <li>AI agents, multi-agent systems, and intelligent applications</li>
+        <li>Retrieval-augmented generation (RAG) and semantic search</li>
+        <li>Natural language processing and neural networks</li>
+        <li>Model development, optimization, and deployment</li>
+        <li>Data science, statistical analysis, and exploratory data analysis</li>
+        <li>Data engineering, processing, visualization, and analytical pipelines</li>
+        <li>PyTorch, TensorFlow, Hugging Face, NumPy, Pandas, and SciPy</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ AUTOMATION & INDUSTRIAL SYSTEMS</h4>
+      <ul>
+        <li>Industrial automation and intelligent workflow engineering</li>
+        <li>Business process automation and Python-based solutions</li>
+        <li>n8n, API integration, webhooks, and event-driven architectures</li>
+        <li>Industrial IoT (IIoT) and industrial data acquisition</li>
+        <li>PLC communication, SCADA, Modbus, and MQTT</li>
+        <li>Industrial monitoring and control systems</li>
+        <li>Software integration with industrial infrastructure</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ INFRASTRUCTURE & ENGINEERING OPERATIONS</h4>
+      <ul>
+        <li>Linux-based environments and server administration</li>
+        <li>Docker and containerized applications</li>
+        <li>PostgreSQL, MySQL, MongoDB, and Redis</li>
+        <li>Git, GitHub, and collaborative development workflows</li>
+        <li>Nginx, application deployment, and infrastructure management</li>
+        <li>Application performance, maintainability, and system reliability</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## TECHNOLOGY ECOSYSTEM
+<h3>🧰 Complete Technical Arsenal</h3>
 
 <div align="center">
-
-### LANGUAGES & CORE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,bash&theme=dark" alt="Programming languages" />
-
-### FRONTEND & BACKEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,flask&theme=dark" alt="Frontend and backend technologies" />
-
-### AI, MACHINE LEARNING & DATA
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and machine learning technologies" />
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data technologies" />
-
-### 3D, GRAPHICS & INTERACTIVE WEB
-
-<img src="https://skillicons.dev/icons?i=threejs,blender,webgl&theme=dark" alt="3D and graphics technologies" />
-
-### DATABASES & DATA STORAGE
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" alt="Database technologies" />
-
-### INFRASTRUCTURE & DEVELOPMENT OPERATIONS
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions&theme=dark" alt="Infrastructure and development operations" />
-
-### CONTENT PLATFORMS & WEB ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=wordpress,php,js,css,html&theme=dark" alt="Web engineering technologies" />
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,ts,js,php,html,css,react,nextjs,nodejs,fastapi,django,flask,threejs,wordpress&perline=7" alt="Stack 1" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,mongodb,redis,docker,linux,nginx,git,github&perline=7" alt="Stack 2" />
+  </p>
 </div>
 
----
-
-## TECHNICAL CAPABILITIES
-
 <details>
-<summary><strong>Software Architecture & Full-Stack Development</strong></summary>
-<br/>
-
-`Software Architecture` · `System Design` · `Software Engineering` · `Full-Stack Development` · `Frontend Development` · `Backend Development` · `Object-Oriented Programming` · `Data Structures & Algorithms` · `API Development` · `REST APIs` · `Web Application Development` · `TypeScript` · `JavaScript` · `Python` · `PHP` · `SQL` · `React.js` · `Next.js` · `Node.js` · `FastAPI` · `Django` · `Flask`
-
+  <summary><b>🔍 Click to Expand Full LinkedIn Skills Matrix (90+ Verified Competencies)</b></summary>
+  <br>
+  <p align="center">
+    <b>Architecture & Core Engineering:</b><br>
+    <code>Software Architecture</code> <code>System Design</code> <code>Full-Stack Development</code> <code>Software Engineering</code> <code>Object-Oriented Programming</code> <code>Data Structures & Algorithms</code> <code>API Development</code> <code>REST APIs</code> <code>Backend Development</code> <code>Frontend Development</code> <code>Web Application Development</code>
+    <br><br>
+    <b>AI, Machine Learning & Data Science:</b><br>
+    <code>Artificial Intelligence (AI)</code> <code>Machine Learning</code> <code>Deep Learning</code> <code>Large Language Models (LLM)</code> <code>Generative AI</code> <code>Multi-Agent Systems</code> <code>Natural Language Processing (NLP)</code> <code>AI Integration</code> <code>Model Deployment</code> <code>Model Optimization</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Hugging Face</code> <code>Data Science</code> <code>Data Engineering</code> <code>Data Analysis</code> <code>Data Processing</code> <code>Data Visualization</code> <code>Statistical Analysis</code> <code>Exploratory Data Analysis (EDA)</code> <code>NumPy</code> <code>Pandas</code> <code>SciPy</code> <code>Jupyter</code>
+    <br><br>
+    <b>Industrial IoT & Intelligent Automation:</b><br>
+    <code>Industrial Automation</code> <code>Industrial Internet of Things (IIoT)</code> <code>Control Systems Engineering</code> <code>PLC Programming</code> <code>SCADA</code> <code>Modbus</code> <code>MQTT</code> <code>Industrial Monitoring</code> <code>Workflow Automation</code> <code>Business Process Automation</code> <code>n8n</code> <code>Python Automation</code> <code>API Integration</code> <code>Webhooks</code>
+    <br><br>
+    <b>3D Web, CMS & Performance Engineering:</b><br>
+    <code>Three.js</code> <code>WebGL</code> <code>React Three Fiber</code> <code>3D Web Development</code> <code>Real-Time Rendering</code> <code>Shader Programming</code> <code>Interactive 3D</code> <code>Web Animation</code> <code>WordPress</code> <code>WooCommerce</code> <code>WordPress Plugin Development</code> <code>Technical SEO</code> <code>SEO Auditing</code> <code>Search Engine Optimization</code> <code>Web Performance Optimization</code> <code>Core Web Vitals</code> <code>Schema.org</code> <code>Website Architecture</code> <code>JavaScript Optimization</code>
+    <br><br>
+    <b>Databases, DevOps & Infrastructure:</b><br>
+    <code>Linux</code> <code>Docker</code> <code>DevOps</code> <code>Nginx</code> <code>Database Management</code> <code>SQL</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Redis</code> <code>MongoDB</code> <code>Git</code> <code>GitHub</code>
+  </p>
 </details>
 
-<details>
-<summary><strong>Artificial Intelligence & Machine Learning</strong></summary>
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Natural Language Processing` · `Large Language Models` · `Generative AI` · `Multi-Agent Systems` · `RAG` · `Semantic Search` · `AI Integration` · `Model Deployment` · `Model Optimization` · `PyTorch` · `TensorFlow` · `Hugging Face`
-
-</details>
-
-<details>
-<summary><strong>Data Science & Engineering</strong></summary>
-<br/>
-
-`Data Science` · `Data Analysis` · `Data Engineering` · `Data Processing` · `Data Visualization` · `Statistical Analysis` · `Exploratory Data Analysis` · `NumPy` · `Pandas` · `SciPy` · `Jupyter`
-
-</details>
-
-<details>
-<summary><strong>Automation & Industrial Systems</strong></summary>
-<br/>
-
-`Workflow Automation` · `Business Process Automation` · `Python Automation` · `n8n` · `API Integration` · `Webhooks` · `Industrial IoT` · `PLC Programming` · `SCADA` · `Modbus` · `MQTT` · `Industrial Monitoring` · `Control Systems Engineering`
-
-</details>
-
-<details>
-<summary><strong>3D Graphics & Interactive Experiences</strong></summary>
-<br/>
-
-`Three.js` · `WebGL` · `React Three Fiber` · `3D Web Development` · `Real-Time Rendering` · `Shader Programming` · `GLSL` · `Interactive 3D` · `Web Animation`
-
-</details>
-
-<details>
-<summary><strong>Web Platforms, SEO & Performance</strong></summary>
-<br/>
-
-`WordPress` · `WooCommerce` · `WordPress Plugin Development` · `PHP Development` · `Technical SEO` · `SEO Auditing` · `Search Engine Optimization` · `Web Performance Optimization` · `Core Web Vitals` · `Schema.org` · `Website Architecture` · `JavaScript Optimization`
-
-</details>
-
-<details>
-<summary><strong>Infrastructure, Databases & DevOps</strong></summary>
-<br/>
-
-`Linux` · `Docker` · `Git` · `GitHub` · `PostgreSQL` · `MySQL` · `Redis` · `MongoDB` · `Database Management` · `DevOps` · `Nginx`
-
-</details>
-
----
-
-## ENGINEERING PRINCIPLES
-
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>01</strong><br/><br/>
-**ARCHITECTURE FIRST**<br/>
-<sub>Design before implementation.</sub>
-</td>
-<td align="center" width="25%">
-<strong>02</strong><br/><br/>
-**AUTOMATION**<br/>
-<sub>Eliminate repetitive complexity.</sub>
-</td>
-<td align="center" width="25%">
-<strong>03</strong><br/><br/>
-**SYSTEM THINKING**<br/>
-<sub>Connect components intelligently.</sub>
-</td>
-<td align="center" width="25%">
-<strong>04</strong><br/><br/>
-**SCALABILITY**<br/>
-<sub>Build for what comes next.</sub>
-</td>
-</tr>
-</table>
-
----
-
-## LET'S CONNECT
+<h3>🌐 Direct Communication Channels</h3>
 
 <div align="center">
+  <p><i>Available for complex engineering challenges, architectural consulting, and industrial digital transformation.</i></p>
 
-**Have an engineering challenge, a technical idea, or a project worth building?**
-
-Let's connect.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aliparvazi">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071A2D" alt="Connect on LinkedIn" />
-</a>
-
-<a href="https://wa.me/989386117755">
-  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=071A2D" alt="WhatsApp" />
-</a>
-
-<a href="https://t.me/aliparvazii">
-  <img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=071A2D" alt="Telegram" />
-</a>
-
-<a href="https://www.instagram.com/aliparvazii">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071A2D" alt="Instagram" />
-</a>
-
-<br/><br/>
-
-<sub>SOFTWARE. INTELLIGENCE. AUTOMATION. ENGINEERING.</sub>
-
-<br/>
-
-**AUTOMATING THE PREDICTABLE. ENGINEERING THE IMPOSSIBLE.**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2D,50:102B46,100:071A2D&height=90&section=footer" width="100%" alt="Footer" />
+  <a href="https://www.linkedin.com/in/aliparvazi">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10141A" height="42" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/aliparvazii">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=10141A" height="42" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/989386117755">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=10141A" height="42" alt="WhatsApp" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aliparvazii">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=10141A" height="42" alt="Instagram" />
+  </a>
 </div>
